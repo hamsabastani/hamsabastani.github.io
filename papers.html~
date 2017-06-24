@@ -6,7 +6,7 @@ p {
 color: 000000;
 font-size: 13pt;
 line-height: 15pt;
-font-family: garamond;
+font-family: garamond, verdana, arial;
 }
 
 h1 {
