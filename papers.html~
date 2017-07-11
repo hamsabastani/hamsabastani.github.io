@@ -51,7 +51,7 @@ a:hover {color: blue}
 7. <b>Osbert Bastani, Carolyn Kim, Hamsa Bastani, "<a href = "./interp.pdf">Interpreting Blackbox Models via Model Extraction</a>"</b>
 <br>Preliminary version appeared in <a href="http://www.fatml.org/schedule/2017/page/papers-2017">FATML 2017</a>.
 <font color = #8585ad>
-<p>Interpretability has become an important issue as machine learning is increasingly used to inform consequential decisions. We propose an approach for interpreting a blackbox model by extracting a decision tree that approximates the model. The algorithm avoids overfitting by actively sampling new training points using the blackbox model. We use this technique to interpret random forests and neural nets trained on several datasets to understand and discover potential flaws (e.g., correlation vs. causality, prejudice against minority groups) in these models.
+<p>Interpretability has become an important issue as machine learning is increasingly used to inform consequential decisions. We propose an approach for interpreting a blackbox model by extracting a decision tree that approximates the model. The algorithm avoids overfitting by actively sampling new training points using the blackbox model. We use this technique to interpret random forests and neural nets trained on several datasets to understand and discover potential flaws (e.g., correlation vs. causation, prejudice against minority groups) in these models.
 </font>
 <br>
 <br>
