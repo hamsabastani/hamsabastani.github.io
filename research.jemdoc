@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+[surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
+Joint work with A. Anderer and J. Silberholz
+
+[metapricing.pdf *Meta Dynamic Pricing: Learning Across Experiments*]\n
+Joint work with D. Simchi-Levi and R. Zhu
+
+[transshipments.pdf *Do Policies with Limited Enforcement Reduce Harm? Evidence from Transshipment Bans*]\n
+Joint work with J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}
+
+[proxies.pdf *Predicting with Proxies*]\n
+Major revision, /*Management Science*/\n
+
+[engagement.pdf *Sequential Learning of Product Recommendations with Customer Disengagement*]\n
+Joint work with P. Harsha, G. Perakis, and D. Singhvi
+
+[interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
+Joint work with O. Bastani and C. Kim\n
+Preliminary version appeared in /*FATML (2017)*/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+/News coverage: [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
+
+[greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
+Joint work with M. Bayati and K. Khosravi\n
+Major revision, /*Management Science*/
+
+[lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
+Joint work with M. Bayati\n
+Accepted in /*Operations Research*/\n{{<font color="EE0000">Winner of Pierskalla Award for Best Paper in Healthcare (2016), George Nicholson Student Paper Competition (2016),<br> MSOM Student Paper Competition (2016), and IBM Service Science Best Student Paper Award (2016)<font color="000000">}}
+
+[incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
+Joint work with M. Bayati, M. Braverman, R. Gummadi, and R. Johari
+
+[upcoding.pdf *Evidence of Upcoding in Pay-for-Performance Programs*]\n
+Joint work with J. Goh and M. Bayati\n
+/*Management Science (2018)*/\n{{<font color="EE0000">Winner, Health Applications Society Best Student Paper Award (2015)<font color="000000">}}\n
+/News coverage: [https://www.sciencedaily.com/releases/2016/03/160308183646.htm Science Daily]/\n
+
+[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7613/76130X/Creating-optical-vortex-modes-with-a-single-cylinder-lens/10.1117/12.847890.short? *Creating Optical Vortex Modes with a Single Cylinder Lens*]\n
+Joint work with M. Cohen and J. Noe\n
+/*Proc. SPIE (2010)*/
+
+[https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-25-22879 *Multiplex coherent anti-Stokes Raman scattering (MCARS) for chemically sensitive, label-free flow cytometry*]\n
+Joint work with C. Camp, S. Yegnanarayanan, A. Eftekhar, and A. Adibi\n
+/*Optics Express (2009)*/
