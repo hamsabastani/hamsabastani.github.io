@@ -2,7 +2,8 @@
 = Research
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
-Joint work with A. Anderer and J. Silberholz
+Joint work with A. Anderer and J. Silberholz\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2019)<font color="000000">}}\n
+
 
 [metapricing.pdf *Meta Dynamic Pricing: Learning Across Experiments*]\n
 Joint work with D. Simchi-Levi and R. Zhu\n
@@ -15,12 +16,13 @@ Major revision, /*Management Science*/\n{{<font color="EE0000">People's Choice A
 [proxies.pdf *Predicting with Proxies*]\n
 Major revision, /*Management Science*/\n
 
-[engagement.pdf *Sequential Learning of Product Recommendations with Customer Disengagement*]\n
-Joint work with P. Harsha, G. Perakis, and D. Singhvi
+[engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
+Joint work with P. Harsha, G. Perakis, and D. Singhvi\n
+Major revision, /*M&SOM*/\n
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 Joint work with O. Bastani and C. Kim\n
-Preliminary version appeared in /*FATML (2017)*/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+Preliminary version in /*FATML (2017)*/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
 /News coverage: [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
