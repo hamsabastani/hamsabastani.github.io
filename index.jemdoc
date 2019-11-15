@@ -15,6 +15,6 @@ hamsab \[AT\] wharton.upenn.edu\n
 
 I completed my PhD in Stanford's Electrical Engineering department under the supervision of [https://web.stanford.edu/~bayati Mohsen Bayati], and spent a year as a Herman Goldstine postdoctoral fellow at IBM Research. Previously, I graduated summa cum laude from Harvard in 2012 with a A.M. in physics, and a A.B. in physics and mathematics.
 
-My primary research interests center around transfer learning, bandits, algorithmic accountability, and data-driven policy evaluation. My work is inspired by applications to healthcare, revenue management, and sustainable supply chains.
+My research focuses on developing novel machine learning algorithms for data-driven decision-making, with applications to healthcare operations, revenue management, and social good. Recently, I've been working on the design and application of transfer learning algorithms, e.g., for [https://hamsabastani.github.io/proxies.pdf predictive analytics] with small data, [https://hamsabastani.github.io/metapricing.pdf dynamic pricing] across related products, and speeding up clinical trials with [https://hamsabastani.github.io/surrogates.pdf surrogate outcomes]. I am also interested in [https://hamsabastani.github.io/interp.pdf algorithmic accountability] and using big data to [https://hamsabastani.github.io/transshipments.pdf combat social and environmental harm].
 
 I teach OIDD 321: Introduction to Management Science..
