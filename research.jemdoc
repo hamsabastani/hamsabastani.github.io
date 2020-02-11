@@ -1,10 +1,12 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
+My current research centers around (1) machine learning algorithms, (2) data-driven social good, and (3) the human-AI interface.
+
 == Machine Learning Algorithms
 
 \n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
-\n Applications include personalized healthcare, adaptive clinical trial designs, dynamic pricing and product recommendations.
+\n Applications include personalized healthcare, clinical trial designs, dynamic pricing, product recommendations and NLP.
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
@@ -19,7 +21,7 @@ H. Bastani\n
 Major revision, /*Management Science*/\n
 
 [engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
-H. Bastani, P. Harsha, G. Perakis, and D. Singhvi\n
+H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
 Major revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
