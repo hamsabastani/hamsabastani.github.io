@@ -6,7 +6,7 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 == Machine Learning Algorithms
 
 \n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
-\n Applications include personalized healthcare, clinical trial designs, dynamic pricing, product recommendations and NLP.
+\n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
@@ -30,7 +30,7 @@ H. Bastani, M. Bayati and K. Khosravi\n
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
-/*Operations Research (2019)*/\n{{<font color="EE0000">Winner of Pierskalla Award for Best Paper in Healthcare (2016), George Nicholson Student Paper Competition (2016),<br> MSOM Student Paper Competition (2016), and IBM Service Science Best Student Paper Award (2016)<font color="000000">}}
+/*Operations Research (2020)*/\n{{<font color="EE0000">Winner of Pierskalla Award for Best Paper in Healthcare (2016), George Nicholson Student Paper Competition (2016),<br> MSOM Student Paper Competition (2016), and IBM Service Science Best Student Paper Award (2016)<font color="000000">}}
 
 == Data-Driven Social Good
 
@@ -46,7 +46,7 @@ Major revision, /*Management Science*/\n{{<font color="EE0000">People's Choice A
 
 [upcoding.pdf *Evidence of Upcoding in Pay-for-Performance Programs*]\n
 H. Bastani, J. Goh and M. Bayati\n
-/*Management Science (2018)*/\n{{<font color="EE0000">Winner, Health Applications Society Best Student Paper Award (2015)<font color="000000">}}\n
+/*Management Science (2019)*/\n{{<font color="EE0000">Winner, Health Applications Society Best Student Paper Award (2015)<font color="000000">}}\n
 /News coverage: [https://www.sciencedaily.com/releases/2016/03/160308183646.htm Science Daily]/\n
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
