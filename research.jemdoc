@@ -34,11 +34,11 @@ H. Bastani\n
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
 Preliminary version in /*FATML* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
-/News coverage: [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
+/News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
-/*Management Science* (forthcoming)/
+/*Management Science* (forthcoming)/ *[https://github.com/khashayarkhv/contextual-bandits {{[open-source code]}}]*
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
 H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari
