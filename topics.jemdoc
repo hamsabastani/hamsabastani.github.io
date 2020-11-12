@@ -8,9 +8,17 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 \n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
 \n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
+*Country-Scale Bandit Implementation for Targeted COVID-19 Testing*\n
+H. Bastani, K. Drakopoulos, V. Gupta, J. Vlachogiannis and Greek COVID-19 Taskforce\n
+[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute Talk on Preliminary Results]
+
+[appliedml.pdf *Applied Machine Learning in Operations Management*] (draft)\n
+H. Bastani, D. J. Zhang and H. Zhang\n
+Invited book chapter for */Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
+
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-Major revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019)<font color="000000">}}\n
+Major revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br>Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
