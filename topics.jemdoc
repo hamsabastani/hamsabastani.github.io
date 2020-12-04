@@ -10,7 +10,7 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 
 *Country-Scale Bandit Implementation for Targeted COVID-19 Testing*\n
 H. Bastani, K. Drakopoulos, V. Gupta, J. Vlachogiannis and Greek COVID-19 Taskforce\n
-[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute Talk on Preliminary Results] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md Code]
+*[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Talk at Simons Institute]}}]* and *[https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]*
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*] (draft)\n
 H. Bastani, D. J. Zhang and H. Zhang\n
@@ -34,7 +34,7 @@ H. Bastani\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
-/*Management Science* (forthcoming)/ *[https://github.com/khashayarkhv/contextual-bandits {{[open-source code]}}]*
+/*Management Science* (forthcoming)/ *[https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]*
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
