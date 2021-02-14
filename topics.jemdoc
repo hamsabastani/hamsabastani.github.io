@@ -8,9 +8,13 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 \n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
 \n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
-*Country-Scale Bandit Implementation for Targeted COVID-19 Testing*\n
-H. Bastani, K. Drakopoulos, V. Gupta, J. Vlachogiannis and Greek COVID-19 Taskforce\n
-*[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Talk at Simons Institute]}}]* and *[https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]*
+*Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border*\n
+H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
+(\* denotes equal contribution)\n
+*[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}]* and *[https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]*
+
+[wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
+K. Xu, X. Zhao, H. Bastani and O. Bastani
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*] (draft)\n
 H. Bastani, D. J. Zhang and H. Zhang\n
@@ -18,11 +22,11 @@ Invited book chapter for */Innovative Technology at the Interface of Finance & O
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-Major revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br>Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+Minor revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br>Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
-Minor revision, /*Management Science*/\n
+/*Management Science* (forthcoming)/\n
 
 [engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
 H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
@@ -30,11 +34,11 @@ Major revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science 
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
-/*Management Science* (forthcoming)/
+/*Management Science* (Articles in Advance)/
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
-/*Management Science* (forthcoming)/ *[https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]*
+/*Management Science* (Articles in Advance)/ *[https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]*
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
