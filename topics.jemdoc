@@ -11,7 +11,7 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 [greekcovid.pdf *Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
-*[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}]* and *[https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]*
+[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani
@@ -26,7 +26,7 @@ Minor revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskall
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
-/*Management Science* (accepted)/\n
+/*Management Science* (Forthcoming)/\n
 
 [engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
 H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
@@ -38,7 +38,7 @@ H. Bastani\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
-/*Management Science* (Articles in Advance)/ *[https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]*
+/*Management Science*/, 67(3), 1329-1349 (2021) [https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
