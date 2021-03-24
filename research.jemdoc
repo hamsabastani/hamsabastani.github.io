@@ -3,6 +3,10 @@
 
 == Papers
 
+*Unmasking Sex Trafficking Supply Chains with Machine Learning*\n
+P. Ramchandani, H. Bastani and E. Wyatt\n
+[tellfinder.pdf {{[Extended Abstract]}}]
+
 [greekcovid.pdf *Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
@@ -23,7 +27,7 @@ Major revision, /*Management Science*/\n{{<font color="EE0000">People's Choice A
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-Minor revision, /*Management Science*/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+/*Management Science* (Forthcoming)/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
