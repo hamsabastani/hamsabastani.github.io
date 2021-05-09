@@ -12,22 +12,22 @@ H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoul
 (\* denotes equal contribution)\n
 [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]
 
-[wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
-K. Xu, X. Zhao, H. Bastani and O. Bastani
-
 [tips.pdf *Learning Best Practices: Can Machine Learning Improve Human Decision-Making?*]\n
 H. Bastani, O. Bastani and P. Sinchaisri
+
+[wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
+K. Xu, X. Zhao, H. Bastani and O. Bastani\n
+/*ICML*/ (2021)
 
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
 
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
-H. Bastani and J. F. de Zegher\n
-Major revision, /*Management Science*/\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
+H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-/*Management Science* (Forthcoming)/\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+/*Management Science* (Forthcoming)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Open-Source Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
@@ -43,7 +43,7 @@ H. Bastani\n
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
-Preliminary version in /*FATML* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+Preliminary version in /*FATML Workshop* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
 /News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
@@ -51,7 +51,8 @@ H. Bastani, M. Bayati and K. Khosravi\n
 /*Management Science*/, 67 (3), 1329-1349 (2021) [https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
-H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari
+H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
+/*EC Mechanism Design for Social Good Workshop* (2017)/\n
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
