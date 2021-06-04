@@ -3,21 +3,29 @@
 
 == Papers
 
-*Unmasking Sex Trafficking Supply Chains with Machine Learning*\n
-P. Ramchandani, H. Bastani and E. Wyatt\n
-[tellfinder.pdf {{[Extended Abstract]}}]
+*Learning Across a Network of Bandits*\n
+K. Xu and H. Bastani
 
-[greekcovid.pdf *Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border*]\n
+*Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*\n
+P. Ramchandani, H. Bastani and E. Wyatt\n
+
+[nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
+K. Xu, H. Bastani and O. Bastani\n
+
+[saferl.pdf *Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning*]\n
+W. Xu, K. Xu, H. Bastani and O. Bastani\n
+
+[greekcovid.pdf *Deploying a Machine Learning System for COVID-19 Testing at the Greek Border*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
-[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]
+Revise \& Resubmit, /*Nature* (Research Article)/ [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]\n
 
 [tips.pdf *Learning Best Practices: Can Machine Learning Improve Human Decision-Making?*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000">Second Place, POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
-/*ICML*/ (2021)
+Preliminary version in /*ICML*/ (2021)
 
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
@@ -39,7 +47,7 @@ Minor revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science 
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
-/*Management Science* (Articles in Advance)/
+/*Management Science*/, 67 (5), 2964-2984 (2021)
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n

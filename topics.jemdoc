@@ -8,14 +8,23 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 \n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
 \n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
-[greekcovid.pdf *Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border*]\n
+*Learning Across a Network of Bandits*\n
+K. Xu and H. Bastani
+
+[nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
+K. Xu, H. Bastani and O. Bastani
+
+[saferl.pdf *Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning*]\n
+W. Xu, K. Xu, H. Bastani and O. Bastani
+
+[greekcovid.pdf *Deploying a Machine Learning System for COVID-19 Testing at the Greek Border*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
-[https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]
+Revise \& Resubmit, /*Nature* (Research Article)/ [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]\n
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
-/*ICML*/ (2021)
+Preliminary version in /*ICML*/ (2021)
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*] (draft)\n
 H. Bastani, D. J. Zhang and H. Zhang\n
@@ -35,7 +44,7 @@ Minor revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science 
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
-/*Management Science* (Articles in Advance)/
+/*Management Science*/ 67 (5), 2964-2984 (2021)
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
@@ -49,9 +58,8 @@ H. Bastani and M. Bayati\n
 
 \n I am passionate about using novel sources of data to better enable socially responsible operations and healthcare policy.
 
-*Unmasking Sex Trafficking Supply Chains with Machine Learning*\n
+*Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*\n
 P. Ramchandani, H. Bastani and E. Wyatt\n
-[tellfinder.pdf {{[Extended Abstract]}}]
 
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
