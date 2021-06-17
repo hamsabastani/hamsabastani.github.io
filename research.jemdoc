@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
-== Papers
+== Working Papers
 
 *Learning Across a Network of Bandits*\n
 K. Xu and H. Bastani
@@ -34,6 +34,13 @@ P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice A
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
 H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
 
+[engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
+H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
+Minor revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n\n
+
+
+== Published Papers
+
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
 /*Management Science* (Forthcoming)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Open-Source Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
@@ -42,17 +49,13 @@ A. Anderer, H. Bastani and J. Silberholz\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
 /*Management Science* (Forthcoming)/\n
 
-[engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
-H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
-Minor revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n
-
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
 /*Management Science*/, 67 (5), 2964-2984 (2021)
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
-Preliminary version in /*FATML Workshop* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+/*FATML Workshop* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
 /News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
