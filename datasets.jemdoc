@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{datasets.html}
+= Datasets
+
+Data-driven work naturally requires data. This page links to datasets that my co-authors and I have collected, with the hope that it will spur further research by others.
+
+[https://github.com/aanderer/ClinicalTrialsWithSurrogates *Cancer Clinical Trial Dataset*] (with A. Anderer and J. Silberholz) \n
+- digitized Kaplan-Meier curves on surrogate and true outcomes from 1,865 metastatic breast cancer clinical trials\n
+- surrogate/true outcome pairs in other cancers from existing meta-analyses
+
+[https://github.com/kimondr/EVA_Public_Data *Targeted COVID-19 Screening Dataset*] (with K. Drakopoulos, V. Gupta and Greek COVID-19 Taskforce) \n
+- RT-PCR testing results from different tourist profiles arriving in Greece in Summer 2020\n
+- de-identified and aggregated to comply with GDPR
