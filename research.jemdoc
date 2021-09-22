@@ -6,16 +6,15 @@
 *Learning Across Bandits in High Dimension via Robust Statistics*\n
 K. Xu and H. Bastani
 
+[interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
+H. Bastani, K. Drakopoulos, V. Gupta and Greek COVID-19 Taskforce\n
+Invited paper (under review), /*INFORMS Journal on Applied Analytics*/\n{{<font color="EE0000">Finalist, Wagner Prize for Excellence in Practice (2021)<font color="000000">}}\n
+
 [sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
 P. Ramchandani, H. Bastani and E. Wyatt\n
-(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Finalist, Service Science Best Student Paper Award (Ramchandani, 2021)<font color="000000">}}\n
+(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Finalist, Public Sector in OR Best Paper Award (2021) and Service Science Best Student Paper Award (Ramchandani, 2021)<font color="000000">}}\n
 
-[greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
-H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
-(\* denotes equal contribution)\n
-Minor Revision, /*Nature* (Research Article)/ [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]\n
-
-[tips.pdf *Learning Best Practices: Can Machine Learning Improve Human Decision-Making?*]\n
+[tips.pdf *Improving Human Decision-Making with Machine Learning*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000">Second Place, POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<br> Finalist, Behavioral OM Best Working Paper Award (2021) and TIMES Working Paper Award (2021)<font color="000000">}}\n
 
 [nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
@@ -23,9 +22,6 @@ K. Xu, H. Bastani and O. Bastani\n
 
 [saferl.pdf *Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning*]\n
 W. Xu, K. Xu, H. Bastani and O. Bastani\n
-
-[interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
-H. Bastani, K. Drakopoulos, V. Gupta and Greek COVID-19 Taskforce\n{{<font color="EE0000">Finalist, Wagner Prize for Excellence in Practice (2021)<font color="000000">}}\n
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
@@ -42,6 +38,11 @@ H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
 Minor revision, /*M&SOM*/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n\n
 
 == Published Papers
+
+[greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
+H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
+(\* denotes equal contribution)\n
+/*Nature* (2021)/ [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2021) and Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
