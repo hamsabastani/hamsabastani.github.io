@@ -7,7 +7,8 @@
 K. Xu and H. Bastani
 
 [interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
-H. Bastani, K. Drakopoulos, V. Gupta and Greek COVID-19 Taskforce\n
+H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
+(\* denotes equal contribution)\n
 Invited paper (under review), /*INFORMS Journal on Applied Analytics*/\n{{<font color="EE0000">Finalist, Wagner Prize for Excellence in Practice (2021)<font color="000000">}}\n
 
 [sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
@@ -38,7 +39,8 @@ H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Ea
 [greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
-/*Nature* (2021)/ [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}] and [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Open-Source Code]}}]\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2021) and Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
+/*Nature* (2021)/\n
+[https://www.nature.com/articles/d41586-021-02556-w {{[Editorial]}}], [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}], [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Code]}}], and [https://github.com/kimondr/EVA_Public_Data {{[Data]}}]\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2021) and Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
 
 [engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
 H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
@@ -46,7 +48,7 @@ H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-/*Management Science* (Forthcoming)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Open-Source Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+/*Management Science* (Forthcoming)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
@@ -63,7 +65,7 @@ O. Bastani, C. Kim and H. Bastani\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
 H. Bastani, M. Bayati and K. Khosravi\n
-/*Management Science*/, 67 (3), 1329-1349 (2021) [https://github.com/khashayarkhv/contextual-bandits {{[Open-Source Code]}}]
+/*Management Science*/, 67 (3), 1329-1349 (2021) [https://github.com/khashayarkhv/contextual-bandits {{[Code]}}]
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
 H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
