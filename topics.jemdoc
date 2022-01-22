@@ -11,11 +11,6 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 [rmbandit.pdf *Learning Across Bandits in High Dimension via Robust Statistics*]\n
 K. Xu and H. Bastani
 
-[interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
-H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
-(\* denotes equal contribution)\n
-Invited paper (under review), /*INFORMS Journal on Applied Analytics*/\n{{<font color="EE0000">Winner, Wagner Prize for Excellence in Practice (2021)<font color="000000">}}\n
-
 [greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
@@ -32,13 +27,13 @@ Preliminary version in /*ICML*/ (2021)
 [nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
 K. Xu, H. Bastani and O. Bastani
 
-[appliedml.pdf *Applied Machine Learning in Operations Management*] (draft)\n
+[appliedml.pdf *Applied Machine Learning in Operations Management*]\n
 H. Bastani, D. J. Zhang and H. Zhang\n
 Invited book chapter for */Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-/*Management Science* (Forthcoming)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+/*Management Science* (Articles in Advance)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
@@ -89,7 +84,12 @@ H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari
 [tips.pdf *Improving Human Decision-Making with Machine Learning*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000">Winner, Behavioral OM Best Working Paper Award (2021)<br>Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
 
-[proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*] (draft)\n
+[interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
+H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
+(\* denotes equal contribution)\n
+/*INFORMS Journal on Applied Analytics* (Forthcoming)/\n{{<font color="EE0000">Winner, Wagner Prize for Excellence in Practice (2021)<font color="000000">}}\n
+
+[proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*]\n
 H. Bastani and P. Shi\n
 Invited book chapter for */Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
 
