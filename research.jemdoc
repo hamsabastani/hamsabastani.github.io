@@ -8,13 +8,10 @@ K. Xu and H. Bastani
 
 [sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
 P. Ramchandani, H. Bastani and E. Wyatt\n
-(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Winner, Service Science Best Student Paper Award (Ramchandani, 2021) and People's Choice Award, Early-Career Sustainable OM Workshop (2022)<br>Finalist, Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
+(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Winner, Service Science Best Student Paper Award (Ramchandani, 2021) and People's Choice Award, Early-Career Sustainable OM Workshop (2022)<br>Second Place, POMS Sustainable OM Student Paper Award (Ramchandani, 2022) and Finalist, Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
 
 [tips.pdf *Improving Human Decision-Making with Machine Learning*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000"> Winner, Behavioral OM Best Working Paper Award (2021) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
-
-[saferl.pdf *Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning*]\n
-W. Xu, K. Xu, H. Bastani and O. Bastani\n
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
@@ -22,6 +19,9 @@ Preliminary version in /*ICML*/ (2021)
 
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
+
+[saferl.pdf *Safely Bridging Offline and Online Reinforcement Learning*]\n
+W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
 
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
 H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
@@ -34,7 +34,7 @@ K. Xu, H. Bastani and O. Bastani\n
 [greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
 (\* denotes equal contribution)\n
-/*Nature* (2021)/\n
+/*Nature*/ 599 (7883), 108-113 (2021) 
 [https://www.nature.com/articles/d41586-021-02556-w {{[Editorial]}}], [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}], [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Code]}}], and [https://github.com/kimondr/EVA_Public_Data {{[Data]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2021)<br>Second Place, Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
 
 [interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
@@ -44,11 +44,15 @@ H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoul
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
-/*Management Science* (Articles in Advance)/ [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+/*Management Science*/ 68 (3), 1982-2002 (2022) [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
-/*Management Science* (Articles in Advance)/\n
+/*Management Science*/, 68 (3), 1865-1881 (2022)\n
+
+[ai-adaptation.pdf *Artificial Intelligence for Climate Change Adaptation*]\n
+S-M. Cheong, K. Sankaran and H. Bastani\n
+/*WIREs Data Mining \& Knowledge Discovery* Perspectives/ (2022)
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
@@ -60,7 +64,7 @@ H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
-/*FATML Workshop* (2017)/\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+/*FATML Workshop*/ (2017)\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
 /News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
@@ -69,7 +73,7 @@ H. Bastani, M. Bayati and K. Khosravi\n
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
 H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
-/*EC Mechanism Design for Social Good Workshop* (2017)/\n
+/*EC Mechanism Design for Social Good Workshop*/ (2017)\n
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
 H. Bastani and M. Bayati\n
@@ -82,11 +86,11 @@ H. Bastani, J. Goh and M. Bayati\n
 
 [https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7613/76130X/Creating-optical-vortex-modes-with-a-single-cylinder-lens/10.1117/12.847890.short? *Creating Optical Vortex Modes with a Single Cylinder Lens*]\n
 H. Sridhar, M. Cohen and J. Noe\n
-/*Proc. SPIE* (2010)/
+/*Proc. SPIE*/ (2010)
 
 [https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-25-22879 *Multiplex coherent anti-Stokes Raman scattering (MCARS) for chemically sensitive, label-free flow cytometry*]\n
 C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi\n
-/*Optics Express* (2009)/
+/*Optics Express*/ (2009)
 
 == Book Chapters
 
