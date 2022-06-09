@@ -4,7 +4,8 @@
 == Working Papers
 
 [rmbandit.pdf *Learning Across Bandits in High Dimension via Robust Statistics*]\n
-K. Xu and H. Bastani
+K. Xu and H. Bastani\n
+Major Revision, /*Management Science*/
 
 [sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
 P. Ramchandani, H. Bastani and E. Wyatt\n
@@ -23,11 +24,12 @@ P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice A
 [saferl.pdf *Safely Bridging Offline and Online Reinforcement Learning*]\n
 W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
 
+[nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
+K. Xu, H. Bastani and O. Bastani\n
+
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
 H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
 
-[nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
-K. Xu, H. Bastani and O. Bastani\n
 
 == Published Papers
 
@@ -92,13 +94,17 @@ H. Sridhar, M. Cohen and J. Noe\n
 C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi\n
 /*Optics Express*/ (2009)
 
-== Book Chapters
+== Invited Book Chapters
+
+[AI4SG.pdf *Reinforcement Learning for Public Health: Targeted COVID-19 Screening*]\n
+H. Bastani, K. Drakopoulos and V. Gupta\n
+*/AI for Social Impact/* (edited by F. Fang, M. Tambe and B. Wilder)
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*]\n
 H. Bastani, D. J. Zhang and H. Zhang\n
-Invited book chapter for */Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
+*/Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
 
 [proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*]\n
 H. Bastani and P. Shi\n
-Invited book chapter for */Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
+*/Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
 

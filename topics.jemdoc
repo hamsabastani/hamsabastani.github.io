@@ -5,11 +5,12 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 
 == Machine Learning Algorithms
 
-\n I primarily study the design and analysis of transfer learning and bandit algorithms for effective data-driven decision-making.
+\n I primarily study the design and analysis of transfer learning and sequential decision-making algorithms for effective data-driven decision-making.
 \n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
 [rmbandit.pdf *Learning Across Bandits in High Dimension via Robust Statistics*]\n
-K. Xu and H. Bastani
+K. Xu and H. Bastani\n
+Major Revision, /*Management Science*/
 
 [greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
 H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
@@ -29,7 +30,7 @@ W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*]\n
 H. Bastani, D. J. Zhang and H. Zhang\n
-Invited book chapter for */Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
+*/Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
 A. Anderer, H. Bastani and J. Silberholz\n
@@ -70,6 +71,10 @@ P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice A
 S-M. Cheong, K. Sankaran and H. Bastani\n
 /*WIREs Data Mining \& Knowledge Discovery* Perspectives/ (2022)
 
+[AI4SG.pdf *Reinforcement Learning for Public Health: Targeted COVID-19 Screening*]\n
+H. Bastani, K. Drakopoulos and V. Gupta\n
+*/AI for Social Impact/* (edited by F. Fang, M. Tambe and B. Wilder)
+
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
 H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
 
@@ -79,7 +84,8 @@ H. Bastani, J. Goh and M. Bayati\n
 /News coverage: [https://www.sciencedaily.com/releases/2016/03/160308183646.htm Science Daily]/\n
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
-H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari
+H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
+/*EC Mechanism Design for Social Good Workshop*/ (2017)
 
 == Human-AI Interface
 
@@ -95,11 +101,11 @@ H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoul
 
 [proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*]\n
 H. Bastani and P. Shi\n
-Invited book chapter for */Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
+*/Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
-Preliminary version in /*FATML*/ (2017)\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+/*FATML Workshop*/ (2017)\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
 /News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 == Optics
