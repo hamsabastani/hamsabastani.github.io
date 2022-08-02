@@ -22,7 +22,7 @@ Preliminary version in /*ICML*/ (2021)
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
 
 [saferl.pdf *Safely Bridging Offline and Online Reinforcement Learning*]\n
-W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
+W. Xu, K. Xu, H. Bastani and O. Bastani\n
 
 [nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
 K. Xu, H. Bastani and O. Bastani\n
@@ -52,17 +52,17 @@ A. Anderer, H. Bastani and J. Silberholz\n
 H. Bastani, D. Simchi-Levi and R. Zhu\n
 /*Management Science*/, 68 (3), 1865-1881 (2022)\n
 
+[engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
+H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
+/*M&SOM* (Articles in Advance)/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n
+
 [ai-adaptation.pdf *Artificial Intelligence for Climate Change Adaptation*]\n
 S-M. Cheong, K. Sankaran and H. Bastani\n
-/*WIREs Data Mining \& Knowledge Discovery* Perspectives/ (2022)
+/*WIREs Data Mining \& Knowledge Discovery* Perspectives (Articles in Advance)/
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
 H. Bastani\n
 /*Management Science*/, 67 (5), 2964-2984 (2021)
-
-[engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
-H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
-/*M&SOM* (Articles in Advance)/\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
 O. Bastani, C. Kim and H. Bastani\n
@@ -88,23 +88,26 @@ H. Bastani, J. Goh and M. Bayati\n
 
 [https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7613/76130X/Creating-optical-vortex-modes-with-a-single-cylinder-lens/10.1117/12.847890.short? *Creating Optical Vortex Modes with a Single Cylinder Lens*]\n
 H. Sridhar, M. Cohen and J. Noe\n
-/*Proc. SPIE*/ (2010)
+/*SPIE*/ Complex Light and Optical Forces 7613, 235-244 (2010)
 
 [https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-25-22879 *Multiplex coherent anti-Stokes Raman scattering (MCARS) for chemically sensitive, label-free flow cytometry*]\n
 C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi\n
-/*Optics Express*/ (2009)
+/*Optics Express*/ 17(25) 22879-22889 (2009)
 
 == Invited Book Chapters
 
 [AI4SG.pdf *Reinforcement Learning for Public Health: Targeted COVID-19 Screening*]\n
 H. Bastani, K. Drakopoulos and V. Gupta\n
-*/AI for Social Impact/* (edited by F. Fang, M. Tambe and B. Wilder)
+/*AI for Social Impact* (Forthcoming)/\n
+Online; edited by F. Fang, M. Tambe and B. Wilder
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*]\n
 H. Bastani, D. J. Zhang and H. Zhang\n
-*/Innovative Technology at the Interface of Finance & Operations/* (edited by V. Babich, J. Birge and G. Hilary)
+*/Innovative Technology at the Interface of Finance & Operations/*\n
+Springer Series; edited by V. Babich, J. Birge and G. Hilary
 
 [proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*]\n
 H. Bastani and P. Shi\n
-*/Modeling for Health: Making Changes/* (edited by S. Suen, E. Enns and D. Scheinker)
+*/AI for Healthcare: Interdisciplinary Partnerships for Analytics-Driven Improvements in a Post-COVID World/*\n
+Cambridge University Press; edited by S. Suen, E. Enns and D. Scheinker
 
