@@ -10,7 +10,7 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 
 [rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
 K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
-Major Revision, /*Management Science*/
+Minor Revision, /*Management Science*/
 
 [saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
 W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
@@ -98,6 +98,11 @@ H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
 == Human-AI Interface
 
 \n I am excited about developing methods for integrating insights from machine learning models into human workflows.
+
+[https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaborati\
+on*]\n
+H. Ge, H. Bastani and O. Bastani\n
+Preliminary version in /*ITCS*/ (2024)
 
 [tips.pdf *Improving Human Decision-Making with Machine Learning*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000">Winner, Behavioral OM Best Working Paper Award (2021) and INFORMS Data Mining Best Paper Award (2022) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
