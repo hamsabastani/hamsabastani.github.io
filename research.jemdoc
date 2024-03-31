@@ -3,6 +3,10 @@
 
 == Working Papers
 
+*Generative AI Can Harm Educational Outcomes*\n
+H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı, R. Mariman\n
+(\* denotes equal contribution)\n
+
 [https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaboration*]\n
 H. Ge, H. Bastani and O. Bastani\n
 Preliminary version in /*ITCS*/ (2024)
@@ -24,10 +28,6 @@ Major Revision, /*M&SOM*/
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
 Major Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
-[saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
-W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
-Preliminary version in /*AISTATS*/ (2023)
-
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
 
@@ -39,6 +39,10 @@ H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Ea
 
 
 == Published Papers
+
+[saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
+W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
+/*AISTATS*/ (2023)
 
 [metacm.pdf *Bandits for Online Calibration: An Application to Content Moderation on Social Media Platforms*]\n
 V. Avadhanula, O. Baki, H. Bastani, O. Bastani, et al.\n
