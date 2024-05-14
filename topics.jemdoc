@@ -12,6 +12,10 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
 Minor Revision, /*Management Science*/
 
+[relubandit.pdf *Stochastic Bandits with ReLU Neural Networks*]\n
+K. Xu, H. Bastani, S. Goel and O. Bastani\n
+/*ICML*/ (2024)
+
 [saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
 W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
 /*AISTATS*/ (2023)

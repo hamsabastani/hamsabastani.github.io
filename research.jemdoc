@@ -31,14 +31,15 @@ Major Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
 P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
 
-[nngeneralization.pdf *Robust Generalization of Quadratic Neural Networks via Function Identification*]\n
-K. Xu, H. Bastani and O. Bastani\n
-
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
 H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
 
 
 == Published Papers
+
+[relubandit.pdf *Stochastic Bandits with ReLU Neural Networks*]\n
+K. Xu, H. Bastani, S. Goel and O. Bastani\n
+/*ICML*/ (2024)
 
 [saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
 W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
