@@ -3,20 +3,20 @@
 
 == Working Papers
 
-*Generative AI Can Harm Educational Outcomes*\n
+[education_llm.pdf *Generative AI Can Harm Learning*\n]
 H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı and R. Mariman\n
 (\* denotes equal contribution)\n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140 *Optimizing Health Supply Chains with Decision-Aware Machine Learning*]\n
 T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n
 
+[molar.pdf *Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity*]\n
+X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban\n
+Major Revision, /*JASA*/
+
 [https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaboration*]\n
 H. Ge, H. Bastani and O. Bastani\n
 Preliminary version in /*ITCS*/ (2024)
-
-[rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
-K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
-Minor Revision, /*Management Science*/
 
 [tips.pdf *Improving Human Sequential Decision-Making with Reinforcement Learning*]\n
 H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000"> Winner, Behavioral OM Best Working Paper Award (2021) and INFORMS Data Mining Best Paper Award (2022) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
@@ -39,6 +39,10 @@ H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Ea
 
 
 == Published Papers
+
+[rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
+K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
+/*Management Science*/ (Forthcoming)
 
 [relubandit.pdf *Stochastic Bandits with ReLU Neural Networks*]\n
 K. Xu, H. Bastani, S. Goel and O. Bastani\n
@@ -115,9 +119,14 @@ C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi\n
 
 == Invited Book Chapters
 
+[sl_chapter.pdf *Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone*]\n
+H. Bastani, O. Bastani and T.-H. Chung\n
+/*Sustainable and Responsible Operations - The New Frontier* (Forthcoming)/\n
+Springer Nature; edited by C. Tang
+
 [AI4SG.pdf *Reinforcement Learning for Public Health: Targeted COVID-19 Screening*]\n
 H. Bastani, K. Drakopoulos and V. Gupta\n
-/*AI for Social Impact* (Forthcoming)/\n
+/*AI for Social Impact*/\n
 Online; edited by F. Fang, M. Tambe and B. Wilder
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*]\n

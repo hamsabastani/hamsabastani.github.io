@@ -8,9 +8,13 @@ My current research centers around (1) machine learning algorithms, (2) data-dri
 \n I primarily study the design and analysis of transfer learning and sequential decision-making algorithms for effective data-driven decision-making.
 \n Applications include personalized healthcare, clinical trial designs, dynamic pricing and product recommendations.
 
+[molar.pdf *Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity*]\n
+X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban\n
+Major Revision, /*JASA*/
+
 [rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
 K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
-Minor Revision, /*Management Science*/
+/*Management Science*/ (Forthcoming)
 
 [relubandit.pdf *Stochastic Bandits with ReLU Neural Networks*]\n
 K. Xu, H. Bastani, S. Goel and O. Bastani\n
@@ -66,7 +70,7 @@ H. Bastani and M. Bayati\n
 
 \n I am passionate about using novel sources of data to better enable socially responsible operations, education and healthcare policy.
 
-*Generative AI Can Harm Educational Outcomes*\n
+[education_llm.pdf *Generative AI Can Harm Learning*]\n
 H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı, R. Mariman\n
 (\* denotes equal contribution)\n
 
@@ -110,8 +114,7 @@ H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
 
 \n I am excited about developing methods for integrating insights from machine learning models into human workflows.
 
-[https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaborati\
-on*]\n
+[https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaboration*]\n
 H. Ge, H. Bastani and O. Bastani\n
 Preliminary version in /*ITCS*/ (2024)
 
