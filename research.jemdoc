@@ -8,24 +8,11 @@ H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı and R. Mariman\n
 (\* denotes equal contribution)\n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140 *Optimizing Health Supply Chains with Decision-Aware Machine Learning*]\n
-T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n{{<font color="EE0000">Finalist, MSOM Student Paper Competition (Chung, 2024), Doing Good with Good OR (Chung, 2024), Public Sector in OR Best Paper Award (2024)<font color="000000">}}\n
-
-[molar.pdf *Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity*]\n
-X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban\n
-Major Revision, /*JASA*/
+T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Hon Mention, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
 
 [https://arxiv.org/abs/2310.03647 *Rethinking Fairness for Human-AI Collaboration*]\n
 H. Ge, H. Bastani and O. Bastani\n
 Preliminary version in /*ITCS*/ (2024)
-
-[tips.pdf *Improving Human Sequential Decision-Making with Reinforcement Learning*]\n
-H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000"> Winner, Behavioral OM Best Working Paper Award (2021) and INFORMS Data Mining Best Paper Award (2022) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
-Minor Revision, /*Management Science*/
-
-[sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
-P. Ramchandani, H. Bastani and E. Wyatt\n
-(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Winner, MSOM Student Paper Competition (Ramchandani, 2022), Service Science Best Student Paper Award (Ramchandani, 2021)<br>Second Place, POMS Sustainable OM Student Paper Award (Ramchandani, 2022) and Finalist, Public Sector in OR Best Paper Award (2021)<br>People's Choice Award, Early-Career Sustainable OM Workshop (2022)<font color="000000">}}\n
-Minor Revision, /*M&SOM*/
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
@@ -39,6 +26,19 @@ H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Ea
 
 
 == Published Papers
+
+[tips.pdf *Improving Human Sequential Decision-Making with Reinforcement Learning*]\n
+H. Bastani, O. Bastani and P. Sinchaisri\n{{<font color="EE0000"> Winner, Behavioral OM Best Working Paper Award (2021) and INFORMS Data Mining Best Paper Award (2022) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
+/*Management Science*/ (Forthcoming)
+
+[sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
+P. Ramchandani, H. Bastani and E. Wyatt\n
+(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n{{<font color="EE0000">Winner, MSOM Student Paper Competition (Ramchandani, 2022), Service Science Best Student Paper Award (Ramchandani, 2021)<br>Second Place, POMS Sustainable OM Student Paper Award (Ramchandani, 2022) and Finalist, Public Sector in OR Best Paper Award (2021)<br>People's Choice Award, Early-Career Sustainable OM Workshop (2022)<font color="000000">}}\n
+/*M&SOM*/ (Forthcoming)
+
+[molar.pdf *Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity*]\n
+X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban\n
+/*JASA*/ (Forthcoming)
 
 [rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
 K. Xu and H. Bastani\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
