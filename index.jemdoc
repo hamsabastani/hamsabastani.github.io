@@ -23,7 +23,7 @@ I am an Associate Professor of Operations, Information and Decisions as well as 
 
 Previously, I graduated summa cum laude from Harvard in 2012 with a A.M. in physics, and a A.B. in physics and mathematics, completed my PhD in Stanford's Electrical Engineering department under the supervision of [https://web.stanford.edu/~bayati Mohsen Bayati], and spent a year as a Herman Goldstine postdoctoral fellow at IBM Research.
 
-I primarily teach OIDD 321: Introduction to Management Science, for which I received multiple Wharton Teaching Excellence Awards. I currently serve as an Associate Editor for [https://pubsonline.informs.org/page/opre/editorial-board Operations Research], [https://pubsonline.informs.org/journal/msom/ M&SOM] and [https://www.journals.elsevier.com/operations-research-letters/editorial-board OR Letters]. I serve on the Steering Committee for the [https://chibe.upenn.edu/ Penn Center for Health Incentives and Behavioral Economics] and on the statistics advisory committee for the [https://www.heart.org/en/professional/food-is-medicine-initiative AHA Food is Medicine Initiative]. Outside academia, I serve on the Scientific Advisory Board of [https://info.hiredscore.com/sab HiredScore] on mitigating hiring bias.
+I primarily teach OIDD 321: Introduction to Management Science, for which I received multiple Wharton Teaching Excellence Awards. I currently serve as an Associate Editor for [https://pubsonline.informs.org/page/opre/editorial-board Operations Research], [https://pubsonline.informs.org/journal/msom/ M&SOM] and [https://www.journals.elsevier.com/operations-research-letters/editorial-board OR Letters]. I serve on the Steering Committee for the [https://chibe.upenn.edu/ Penn Center for Health Incentives and Behavioral Economics] and on the statistics advisory committee for the [https://www.heart.org/en/professional/food-is-medicine-initiative AHA Food is Medicine Initiative]. Outside academia, I serve on the [https://explore.workday.com/workday-ai-advisory-board Workday AI Advisory Board].
 
 == Selected Papers
 
@@ -37,7 +37,7 @@ Ge, Bastani, and Bastani. [https://arxiv.org/abs/2310.03647 Rethinking Fairness 
 
 Ramchandani, Bastani, and Wyatt. [https://hamsabastani.github.io/sextrafficking.pdf Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning], M&SOM (Forthcoming).
 
-Bastani, Bastani, and Sinchaisri. [https://hamsabastani.github.io/tips.pdf Improving Human Decision-Making with Machine Learning], Management Science (Forthcoming).
+Bastani, Bastani, and Sinchaisri. [https://hamsabastani.github.io/tips.pdf Improving Human Sequential Decision-Making with Reinforcement Learning], Management Science (Forthcoming).
 
 Xu and Bastani. [https://arxiv.org/abs/2112.14233 Multitask Learning and Bandits via Robust Statistics], Management Science (Forthcoming)
 
