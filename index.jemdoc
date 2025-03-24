@@ -19,7 +19,7 @@ hamsab \[AT\] wharton.upenn.edu\n
 
 == Bio
 
-I am an Associate Professor of Operations, Information and Decisions as well as Statistics and Data Science at the Wharton School of the University of Pennsylvania, where I co-direct the [https://analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/ Wharton Healthcare Analytics Lab]. I develop novel machine learning algorithms for learning and optimization, including methods for sequential decision-making (/bandits, reinforcement learning, active learning/), learning from auxiliary data sources (/transfer learning, meta-learning, surrogates/), and designing effective human-AI interfaces (/interpretability, fairness, nudges/). I am also passionate about applying these techniques to tackle impactful societal problems, and have worked closely with national governments to deploy algorithms at the country-scale to improve public health outcomes. For example, I worked with the Government of Greece to improve their national border COVID screening via reinforcement learning, and I am working with the Government of Sierra Leone to improve their national essential medicine distribution via decision-aware learning. My research has been published in leading outlets including Nature, Management Science, and Operations Research, and has received numerous recognitions, including the Wagner Prize, the Pierskalla Award, and the George Nicholson Prize.
+I am an Associate Professor of Operations, Information and Decisions as well as Statistics and Data Science at the Wharton School of the University of Pennsylvania, where I co-direct the [https://analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/ Wharton Healthcare Analytics Lab]. I develop novel machine learning algorithms for learning and optimization, including methods for sequential decision-making (/bandits, reinforcement learning, active learning/), learning from auxiliary data sources (/transfer learning, meta-learning, surrogates/), and designing effective human-AI interfaces (/interpretability, fairness, nudges/). I am also passionate about applying these techniques to tackle impactful societal problems, and have worked closely with national governments to deploy algorithms at the country-scale to improve public health outcomes. For example, I worked with the Government of Greece to improve their national border COVID screening via reinforcement learning, and the Government of Sierra Leone to improve their national essential medicine distribution via decision-aware learning. My research has been published in leading outlets including Nature, Management Science, and Operations Research, and has received numerous recognitions, including the Wagner Prize, the Pierskalla Award, and the George Nicholson Prize.
 
 Previously, I graduated summa cum laude from Harvard in 2012 with a A.M. in physics, and a A.B. in physics and mathematics, completed my PhD in Stanford's Electrical Engineering department under the supervision of [https://web.stanford.edu/~bayati Mohsen Bayati], and spent a year as a Herman Goldstine postdoctoral fellow at IBM Research.
 
@@ -29,11 +29,13 @@ I primarily teach OIDD 321: Introduction to Management Science, for which I rece
 
 Bastani, Bastani, Sungu, Ge, Kabakcı, and Mariman. [education_llm.pdf Generative AI Can Harm Learning], Preprint.
 
+Chung et al. [sl.pdf Improving Access to Essential Medicines in Sierra Leone via Machine Learning], Preprint.
+
 Bastani, Drakopoulos, Gupta, et al. [https://www.nature.com/articles/s41586-021-04014-z Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning], Nature (2021).
 
-Anderer, Bastani, and Silberholz. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4096 Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?], Management Science (2022).
-
 Ge, Bastani, and Bastani. [humanai_fairness.pdf Rethinking Algorithmic Fairness for Human-AI Collaboration], ITCS (2024).
+
+Anderer, Bastani, and Silberholz. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4096 Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?], Management Science (2022).
 
 Ramchandani, Bastani, and Wyatt. [https://hamsabastani.github.io/sextrafficking.pdf Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning], M&SOM (Forthcoming).
 

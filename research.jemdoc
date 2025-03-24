@@ -7,22 +7,28 @@
 H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı and R. Mariman\n
 (\* denotes equal contribution)\n
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140 *Optimizing Health Supply Chains with Decision-Aware Machine Learning*]\n
+*Restricting AI Advice Enables Long-Term Learning*\n
+S. Poulidis, H. Bastani and O. Bastani\n
+
+[sl.pdf *Improving Access to Essential Medicines in Sierra Leone via Machine Learning*]\n
 T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Hon Mention, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
 
 [humanai_fairness.pdf *Rethinking Algorithmic Fairness for Human-AI Collaboration*]\n
 H. Ge, H. Bastani and O. Bastani\n
 Preliminary version in /*ITCS*/ (2024)
 
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584 *Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess*]\n
+S. Poulidis, H. Ge, H. Bastani and O. Bastani
+
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
 Major Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
-[csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
-P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
+*Learning to Target with Unknown Network Interference*\n
+X. Wang, H. Bastani, O. Bastani and Z. Ren\n
 
-[transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
-H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
+[https://arxiv.org/abs/2502.20063 *Hiring under Congestion and Algorithmic Monoculture: Value of Strategic Behavior*]\n
+J. Baek, H. Bastani and S. Chen\n
 
 
 == Published Papers
@@ -142,4 +148,13 @@ Springer Series; edited by V. Babich, J. Birge and G. Hilary
 H. Bastani and P. Shi\n
 */AI for Healthcare: Interdisciplinary Partnerships for Analytics-Driven Improvements in a Post-COVID World/*\n
 Cambridge University Press; edited by S. Suen, E. Enns and D. Scheinker
+
+== Inactive Drafts
+
+[csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
+P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
+
+[transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
+H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
+
 
