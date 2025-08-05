@@ -10,3 +10,7 @@ Data-driven work naturally requires data. This page links to datasets that my co
 [https://github.com/kimondr/EVA_Public_Data *Targeted COVID-19 Screening Dataset*] (with K. Drakopoulos, V. Gupta and Greek COVID-19 Taskforce) \n
 - RT-PCR testing results from different tourist profiles arriving in Greece in Summer 2020\n
 - de-identified and aggregated to comply with GDPR
+
+[https://github.com/obastani/GenAICanHarmLearning *Student Math Performance with GPT-4 Tutors*] (with O. Bastani, A. Sungu, H. Ge, O. Kabakci and R. Mariman) \n
+- de-identified student performance and survey data with randomized class assignment to different AI tutors\n
+- de-identified student interactions with GPT-4
