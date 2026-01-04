@@ -3,33 +3,48 @@
 
 == Working Papers
 
+=== AI Field Deployments
+
 [sl.pdf *Improving Access to Essential Medicines in Sierra Leone via Decision-Aware Machine Learning*]\n
 T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n
 Revise & Resubmit, /*Nature*/\n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Finalist, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584 *Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess*]\n
-Major Revision, /*Management Science*/\n
-S. Poulidis, H. Ge, H. Bastani and O. Bastani
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932 *Self-Regulated AI Use Hinders Long-Term Learning*]\n
+S. Poulidis, H. Bastani and O. Bastani
 
-[humanai_fairness.pdf *Rethinking Algorithmic Fairness for Human-AI Collaboration*]\n
-H. Ge, H. Bastani and O. Bastani\n
-Preliminary version in /*ITCS*/ (2024)
+*Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning*\n
+T.-H. Chung, L.-C. Kung, H. Bastani and O. Bastani
+
+
+=== Policy Optimization \& Machine Learning
+
+[https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
+H. Bastani, O. Bastani and B. McLaughlin
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
 Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932 *Self-Regulated AI Use Hinders Long-Term Learning*]\n
-S. Poulidis, H. Bastani and O. Bastani\n
 
-[https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
-H. Bastani, O. Bastani and B. McLaughlin
+=== Human-AI
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5962739 *The Human-AI Contracting Paradox*]\n
+H. Bastani and G. Cachon
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584 *Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess*]\n
+Major Revision, /*Management Science*/\n
+S. Poulidis, H. Ge, H. Bastani and O. Bastani
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5975954 *Perceptions of Fairness in Algorithmic Decision-Making*]\n
+B. Hsiao, H. Bastani, M. Kearns, A. Roth and D. Watts
+
+[humanai_fairness.pdf *Rethinking Algorithmic Fairness for Human-AI Collaboration*]\n
+H. Ge, H. Bastani and O. Bastani\n
+Preliminary version in /*ITCS*/ (2024)
 
 [https://arxiv.org/abs/2502.20063 *Hiring under Congestion and Algorithmic Monoculture*]\n
 J. Baek, H. Bastani and S. Chen
 
-*Incentive-Compatible Human-AI Collaboration via Adversarial Tasks*\n
-H. Bastani, O. Bastani and T.-H. Chung\n
 
 == Published Papers
 
