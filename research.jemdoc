@@ -5,9 +5,9 @@
 
 === AI Field Deployments
 
-[sl.pdf *Improving Access to Essential Medicines in Sierra Leone via Decision-Aware Machine Learning*]\n
+[sl.pdf *Improving Access to Essential Medicines via Decision-Aware Machine Learning*]\n
 T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n
-Revise & Resubmit, /*Nature*/\n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Finalist, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
+Conditionally Accepted, /*Nature*/\n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Finalist, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932 *Self-Regulated AI Use Hinders Long-Term Learning*]\n
 S. Poulidis, H. Bastani and O. Bastani
@@ -18,12 +18,21 @@ T.-H. Chung, L.-C. Kung, H. Bastani and O. Bastani
 
 === Policy Optimization \& Machine Learning
 
+[wc.pdf *Winner’s Curse Drives False Promises in Data-Driven Decisions: A Case Study in Refugee Matching*]\n
+H. Bastani, O. Bastani and B. McLaughlin
+
 [https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
 H. Bastani, O. Bastani and B. McLaughlin
+
+[https://arxiv.org/abs/2602.04836 *Are AI Capabilities Increasing Exponentially? A Competing Hypothesis*]\n
+H. Ge, H. Bastani and O. Bastani
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 K. Xu, X. Zhao, H. Bastani and O. Bastani\n
 Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165986 *Online Learning with Survival Data*]\n
+A. Anderer, H. Bastani and J. Silberholz
 
 
 === Human-AI
