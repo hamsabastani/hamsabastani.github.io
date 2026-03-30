@@ -1002,7 +1002,7 @@ font[color="#EE0000"] {
     margin-bottom: 16px;
     max-height: none;
     overflow: visible;
-    padding: 18px 14px;
+    padding: 16px 13px;
   }
 
   #layout-menu::before {
@@ -1023,7 +1023,10 @@ font[color="#EE0000"] {
   #layout-menu a {
     display: inline-flex;
     align-items: center;
-    padding: 10px 12px;
+    padding: 9px 11px;
+    font-size: 0.93rem;
+    line-height: 1.25;
+    white-space: normal;
   }
 
   #layout-menu a[href^="topics.html#"],
@@ -1032,7 +1035,38 @@ font[color="#EE0000"] {
   }
 
   #layout-content {
-    padding: 26px 22px 30px;
+    padding: 24px 20px 28px;
+  }
+
+  div#toptitle {
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.7rem;
+  }
+
+  div#toptitle h1,
+  #layout-content div#toptitle h1 {
+    font-size: clamp(1.45rem, 4.8vw, 1.78rem);
+    line-height: 1.14;
+  }
+
+  h2 {
+    padding-top: 0.45rem;
+    padding-bottom: 0.22rem;
+    font-size: 1.26rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+  }
+
+  p,
+  dd,
+  li {
+    font-size: 0.98rem;
+  }
+
+  div.blockcontent {
+    padding: 0.72em 0.88em;
   }
 
   .home-hero,
@@ -1068,14 +1102,67 @@ font[color="#EE0000"] {
     width: calc(100% - 16px);
   }
 
+  #layout-menu {
+    padding: 14px 11px 10px;
+  }
+
   #layout-menu,
   #layout-content,
   .home-portrait-card {
     border-radius: 22px;
   }
 
+  #layout-content {
+    padding: 20px 16px 24px;
+  }
+
+  div.menu-item {
+    margin: 0 5px 7px 0;
+  }
+
+  #layout-menu a {
+    padding: 8px 10px;
+    font-size: 0.88rem;
+    line-height: 1.2;
+  }
+
+  div#toptitle h1,
+  #layout-content div#toptitle h1 {
+    font-size: clamp(1.38rem, 7vw, 1.62rem);
+  }
+
+  h2 {
+    font-size: 1.14rem;
+  }
+
+  h3 {
+    font-size: 0.96rem;
+  }
+
+  p,
+  dd,
+  li {
+    font-size: 0.96rem;
+  }
+
+  .paper-authors {
+    font-size: 0.88rem;
+  }
+
+  .paper-note,
+  .award-note {
+    margin-left: 0.72rem;
+    padding-left: 0.62rem;
+    font-size: 0.8rem;
+  }
+
+  div.blockcontent {
+    padding: 0.68em 0.78em;
+  }
+
   .home-intro {
-    font-size: 1.07rem;
+    font-size: 1rem;
+    line-height: 1.68;
   }
 
   .home-actions {
@@ -1084,5 +1171,14 @@ font[color="#EE0000"] {
 
   .button-link {
     width: 100%;
+  }
+
+  .home-meta,
+  .home-card,
+  .featured-card,
+  .publication-item,
+  .home-callout {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }

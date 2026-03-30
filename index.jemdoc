@@ -21,6 +21,7 @@ hamsab \[AT\] wharton.upenn.edu\n
 - *Methodological foundations*: I develop contextual bandit, transfer learning, and policy optimization methods for data-driven decision-making.
 - *Human-AI systems*: I study how algorithmic recommendations affect judgment, learning, fairness, and long-run human performance.
 - *Field deployment*: I partner with governments, NGOs, and schools to evaluate AI systems in healthcare, education, and public policy.
+
 My work combines theory, algorithms, randomized field experiments, and real-world implementation.
 ~
 
@@ -42,5 +43,8 @@ Outside academia, I serve on the [https://explore.workday.com/workday-ai-advisor
 - Bastani, Bastani, and Sinchaisri. [tips.pdf Improving Human Sequential Decision-Making with Reinforcement Learning], Management Science (2025).
 - Xu and Bastani. [rmbandit.pdf Multitask Learning and Bandits via Robust Statistics], Management Science (2025).
 - Bastani, Drakopoulos, Gupta, et al. [https://www.nature.com/articles/s41586-021-04014-z Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning], Nature (2021).
+- Bastani. [proxies.pdf Predicting with Proxies: Transfer Learning in High Dimension], Management Science (2021).
+- Bastani, Bayati, and Khosravi. [greedybandit.pdf Mostly Exploration-Free Algorithms for Contextual Bandits], Management Science (2021).
+- Bastani and Bayati. [lassobandit.pdf Online Decision-Making with High-Dimensional Covariates], Operations Research (2020).
 
 Check out the [topics.html Research by Topic] for an overview of current research directions, and the [research.html Research] page for a full list of working and published papers. Fellow researchers may find the [datasets.html Datasets] pages useful.
