@@ -2,53 +2,45 @@
 = Hamsa Sridhar Bastani
 
 ~~~
-{}{img_left}{whartonpic.jpg}{Hamsa Bastani}{200px}{}{}
+{}{img_left}{whartonpic.jpg}{Hamsa Bastani}{220px}{}{}
 Associate Professor of Operations, Information, and Decisions\n
 Statistics and Data Science (secondary)\n
 Wharton School, University of Pennsylvania\n
 
 Co-Director of [https://analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/ Wharton Healthcare Analytics Lab]\n
 
-=== Contact
 557 Jon M. Huntsman Hall\n
 hamsab \[AT\] wharton.upenn.edu\n
 (215) 573-5365\n
 
-[https://scholar.google.com/citations?user=ZbUfUMoAAAAJ&hl=en Google Scholar]
+[research.html Full Research List] | [topics.html Research by Topic] | [group.html Group] | [cv.pdf CV] | [https://scholar.google.com/citations?user=ZbUfUMoAAAAJ&hl=en Google Scholar]
 ~~~
+
+~
+{Research Overview}
+- *Methodological foundations*: I develop contextual bandit, transfer learning, and policy optimization methods for data-driven decision-making.
+- *Human-AI systems*: I study how algorithmic recommendations affect judgment, learning, fairness, and long-run human performance.
+- *Field deployment*: I partner with governments, NGOs, and schools to evaluate AI systems in healthcare, education, and public policy.
+My work combines theory, algorithms, randomized field experiments, and real-world implementation.
+~
 
 == Bio
 
-I am an Associate Professor of Operations, Information, and Decisions (OID) as well as Statistics and Data Science at the Wharton School of the University of Pennsylvania, where I co-direct the [https://analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/ Wharton Healthcare Analytics Lab]. My research focuses on developing novel machine learning algorithms for learning and optimization, including methods for sequential decision-making (/bandits, reinforcement learning, active learning/), learning from auxiliary data sources (/transfer learning, meta-learning, surrogates/), and designing effective human–AI interfaces (/interpretability, fairness/). Recently, I have been exploring how AI systems affect and augment human behavior, with the goal of designing AI tools that help humans thrive. 
+I am an Associate Professor of Operations, Information, and Decisions (OID) and Statistics and Data Science at the Wharton School of the University of Pennsylvania, where I co-direct the [https://analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/ Wharton Healthcare Analytics Lab]. My research sits at the intersection of machine learning, operations research, and economics. I study how to design, deploy, and evaluate AI systems that empower human decision-makers and improve societal outcomes.
 
-I am passionate about applying machine learning and AI to tackle high-impact societal problems across domains like healthcare, public policy, and education. I have worked closely with national governments to deploy algorithms at the country scale for improving public health outcomes. For example, I collaborated with the Government of Greece to nearly double the efficacy of their national border COVID-19 screening via reinforcement learning, and with the Government of Sierra Leone to improve patient access to essential medicines by nearly 20% via decision-aware learning. Moreover, I co-led the first large field study deploying generative AI tutors in high school math classes, demonstrating critical risks for human overreliance and deskilling. My recent work continues to use a combination of field evidence from randomized controlled trials and theoretical models to inform the careful design necessary for effective  human-AI collaboration.
+I aim to combine methodological depth with implementation in consequential environments. I have worked with national governments to deploy algorithms at the country scale for targeted border COVID-19 screening and essential medicine access, and I co-led one of the first large field studies of generative AI tutors in high school mathematics. I study both the mathematical properties of algorithms and the way people respond to them.
 
-My research has been published in leading outlets including Nature, Management Science, Operations Research, and PNAS, and has garnered numerous recognitions, including the Wagner Prize for Excellence in Operations Research, the INFORMS Pierskalla Award for best healthcare paper, and the George Nicholson Prize. Previously, I graduated summa cum laude from Harvard in 2012 with a A.M. in physics, and a A.B. in physics and mathematics, completed my PhD in Stanford's Electrical Engineering department under the supervision of [https://web.stanford.edu/~bayati Mohsen Bayati], and spent a year as a Herman Goldstine postdoctoral fellow at IBM Research.
+My research has been published in leading outlets including Nature, Management Science, Operations Research, and PNAS, and has garnered numerous recognitions, including the Wagner Prize for Excellence in Operations Research, the INFORMS Pierskalla Award for best healthcare paper, and the George Nicholson Prize. Previously, I graduated summa cum laude from Harvard in 2012 with an A.M. in physics and an A.B. in physics and mathematics, completed my PhD in Stanford's Electrical Engineering department under the supervision of [https://web.stanford.edu/~bayati Mohsen Bayati], and spent a year as a Herman Goldstine postdoctoral fellow at IBM Research.
 
-I primarily teach OIDD 321: Introduction to Management Science, for which I received multiple Wharton Teaching Excellence Awards. I currently serve as an Associate Editor for [https://pubsonline.informs.org/page/opre/editorial-board Operations Research], [https://pubsonline.informs.org/journal/msom/ M&SOM] and [https://www.journals.elsevier.com/operations-research-letters/editorial-board OR Letters]. I serve on the Steering Committee for the [https://chibe.upenn.edu/ Penn Center for Health Incentives and Behavioral Economics] and on the statistics advisory committee for the [https://www.heart.org/en/professional/food-is-medicine-initiative AHA Food is Medicine Initiative]. Outside academia, I serve on the [https://explore.workday.com/workday-ai-advisory-board Workday AI Advisory Board].
+Outside academia, I serve on the [https://explore.workday.com/workday-ai-advisory-board Workday AI Advisory Board].
 
-== Selected Papers
+== Selected Publications
 
-Bastani, Bastani, Sungu, et al. [education_llm.pdf Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics], PNAS (2025).
+- Bastani, Bastani, Sungu, et al. [education_llm.pdf Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics], PNAS (2025).
+- Chung et al. [sl.pdf Improving Access to Essential Medicines via Decision-Aware Machine Learning], Nature, forthcoming.
+- Ge, Bastani, and Bastani. [humanai_fairness.pdf Rethinking Algorithmic Fairness for Human-AI Collaboration], preliminary version in ITCS (2024).
+- Bastani, Bastani, and Sinchaisri. [tips.pdf Improving Human Sequential Decision-Making with Reinforcement Learning], Management Science (2025).
+- Xu and Bastani. [rmbandit.pdf Multitask Learning and Bandits via Robust Statistics], Management Science (2025).
+- Bastani, Drakopoulos, Gupta, et al. [https://www.nature.com/articles/s41586-021-04014-z Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning], Nature (2021).
 
-Chung et al. [sl.pdf Improving Access to Essential Medicines in Sierra Leone via Decision-Aware Machine Learning], Conditionally Accepted, Nature.
-
-Bastani, Drakopoulos, Gupta, et al. [https://www.nature.com/articles/s41586-021-04014-z Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning], Nature (2021).
-
-Ge, Bastani, and Bastani. [humanai_fairness.pdf Rethinking Algorithmic Fairness for Human-AI Collaboration], preliminary version in ITCS (2024).
-
-Anderer, Bastani, and Silberholz. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4096 Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?], Management Science (2022).
-
-Ramchandani, Bastani, and Wyatt. [https://hamsabastani.github.io/sextrafficking.pdf Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning], M&SOM (2025).
-
-Bastani, Bastani, and Sinchaisri. [https://hamsabastani.github.io/tips.pdf Improving Human Sequential Decision-Making with Reinforcement Learning], Management Science (2025).
-
-Xu and Bastani. [https://arxiv.org/abs/2112.14233 Multitask Learning and Bandits via Robust Statistics], Management Science (2025).
-
-Bastani, Simchi-Levi, and Zhu. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4071 Meta Dynamic Pricing: Transfer Learning Across Experiments], Management Science (2021).
-
-Bastani. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3729 Predicting with Proxies: Transfer Learning in High Dimension], Management Science (2021).
-
-Bastani, Bayati, and Khosravi. [https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3605 Mostly Exploration-Free Algorithms for Contextual Bandits], Management Science (2021).
-
-Bastani and Bayati. [https://pubsonline.informs.org/doi/abs/10.1287/opre.2019.1902 Online Decision-Making with High-Dimensional Covariates], Operations Research (2020)..
+Check out the [topics.html Research by Topic] for an overview of current research directions, and the [research.html Research] page for a full list of working and published papers. Fellow researchers may find the [datasets.html Datasets] pages useful.

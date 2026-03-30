@@ -1,193 +1,209 @@
-# jemdoc: menu{MENU}{research.html}
+# jemdoc: menu{MENU_research}{research.html}
 = Research
 
+A list of my working and published papers; for selected papers grouped by research topic, please see [topics.html here].
+
+{{<span id="working-papers" class="section-anchor"></span>}}
 == Working Papers
 
+{{<span id="ai-field-deployments" class="section-anchor"></span>}}
 === AI Field Deployments
 
 [sl.pdf *Improving Access to Essential Medicines via Decision-Aware Machine Learning*]\n
-T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani and O. Bastani \n
-Conditionally Accepted, /*Nature*/\n{{<font color="EE0000">Winner, Public Sector in OR Best Paper Award (2024)<br>Second Place, Doing Good with Good OR (Chung, 2024) and Finalist, MSOM Student Paper Competition (Chung, 2024)<font color="000000">}}\n
+{{<span class="paper-authors">T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani* and O. Bastani*</span>}}\n
+/*Nature*/, Research Article (forthcoming)\n
+{{<span class="paper-note">(* equal last authorship)</span>}}\n
+{{<span class="award-note">1st Place, Public Sector in Operations Best Paper Award (2024)<br>1st Place, Service Science Best Student Paper Award (Chung, 2025)<br>2nd Place, Pierskalla Award for Best Paper in Healthcare (2025)<br>2nd Place, Doing Good with Good OR Best Student Paper Award (Chung, 2024)<br>Finalist, MSOM Student Paper Competition (Chung, 2024)</span>}}\n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932 *Self-Regulated AI Use Hinders Long-Term Learning*]\n
-S. Poulidis, H. Bastani and O. Bastani
+{{<span class="paper-authors">S. Poulidis, H. Bastani and O. Bastani</span>}}
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358 *Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning*]\n
-T.-H. Chung, B. Zhang, L.-C. Kung, H. Bastani and O. Bastani
+{{<span class="paper-authors">T.-H. Chung, B. Zhang, L.-C. Kung, H. Bastani* and O. Bastani*</span>}}\n
+{{<span class="paper-note">(* equal last authorship)</span>}}
 
 
+{{<span id="policy-optimization-machine-learning" class="section-anchor"></span>}}
 === Policy Optimization \& Machine Learning
 
 [wc.pdf *Winner’s Curse Drives False Promises in Data-Driven Decisions: A Case Study in Refugee Matching*]\n
-H. Bastani, O. Bastani and B. McLaughlin
+{{<span class="paper-authors">H. Bastani, O. Bastani and B. McLaughlin</span>}}
 
 [https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
-H. Bastani, O. Bastani and B. McLaughlin
+{{<span class="paper-authors">H. Bastani, O. Bastani and B. McLaughlin</span>}}
 
 [https://arxiv.org/abs/2602.04836 *Are AI Capabilities Increasing Exponentially? A Competing Hypothesis*]\n
-H. Ge, H. Bastani and O. Bastani
+{{<span class="paper-authors">H. Ge, H. Bastani and O. Bastani</span>}}
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
-K. Xu, X. Zhao, H. Bastani and O. Bastani\n
+{{<span class="paper-authors">K. Xu, X. Zhao, H. Bastani and O. Bastani</span>}}\n
 Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165986 *Online Learning with Survival Data*]\n
-A. Anderer, H. Bastani and J. Silberholz
+{{<span class="paper-authors">A. Anderer, H. Bastani and J. Silberholz</span>}}
 
 
+{{<span id="human-ai" class="section-anchor"></span>}}
 === Human-AI
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5962739 *The Human-AI Contracting Paradox*]\n
-H. Bastani and G. Cachon
+{{<span class="paper-authors">H. Bastani and G. Cachon</span>}}
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584 *Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess*]\n
 Major Revision, /*Management Science*/\n
-S. Poulidis, H. Ge, H. Bastani and O. Bastani
+{{<span class="paper-authors">S. Poulidis, H. Ge, H. Bastani and O. Bastani</span>}}\n
+{{<span class="award-note">1st Place, Decision Analysis Society Student Paper Award (Poulidis, 2025)<br>Finalist, TIMES Working Paper Award (2025)</span>}}
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5975954 *Perceptions of Fairness in Algorithmic Decision-Making*]\n
-B. Hsiao, H. Bastani, M. Kearns, A. Roth and D. Watts
+{{<span class="paper-authors">B. Hsiao, H. Bastani, M. Kearns, A. Roth and D. Watts</span>}}
 
 [humanai_fairness.pdf *Rethinking Algorithmic Fairness for Human-AI Collaboration*]\n
-H. Ge, H. Bastani and O. Bastani\n
+{{<span class="paper-authors">H. Ge, H. Bastani and O. Bastani</span>}}\n
 Major Revision, /*Management Science*/, preliminary version in /*ITCS*/ (2024)
 
 [https://arxiv.org/abs/2502.20063 *Strategic Hiring under Algorithmic Monoculture*]\n
-J. Baek, H. Bastani and S. Chen
+{{<span class="paper-authors">J. Baek, H. Bastani and S. Chen</span>}}
 
 
+{{<span id="published-papers" class="section-anchor"></span>}}
 == Published Papers
 
 [education_llm.pdf *Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics*\n]
-H. Bastani\*, O. Bastani\*, A. Sungu\*, H. Ge, Özge Kabakçı and R. Mariman\n
-(\* denotes equal contribution), cited by the [https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf 2025 Economic Report of the President]\n
+{{<span class="paper-authors">H. Bastani*, O. Bastani*, A. Sungu*, H. Ge, Özge Kabakçı and R. Mariman</span>}}\n
 /*PNAS*/ (2025)
+{{<span class="paper-note">(* equal first authorship); cited in the <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf" target="blank">2025 Economic Report of the President</a></span>}}\n
 
 [https://arxiv.org/abs/2405.13268 *Stochastic Online Conformal Prediction with Semi-Bandit Feedback*\n]
-H. Ge, H. Bastani and O. Bastani\n
+{{<span class="paper-authors">H. Ge, H. Bastani and O. Bastani</span>}}\n
 /*ICML*/ (2025)
 
 [tips.pdf *Improving Human Sequential Decision-Making with Reinforcement Learning*]\n
-H. Bastani, O. Bastani and P. Sinchaisri\n
-/*Management Science*/ (2025)\n{{<font color="EE0000"> Winner, Behavioral OM Best Working Paper Award (2021) and INFORMS Data Mining Best Paper Award (2022) <br> Second Place, TIMES Working Paper Award (2021) and POMS Behavioral OM Student Paper Award (Sinchaisri, 2021)<font color="000000">}}\n
+{{<span class="paper-authors">H. Bastani, O. Bastani and P. Sinchaisri</span>}}\n
+/*Management Science*/ (2026)\n{{<span class="award-note">1st Place, Behavioral OM Best Working Paper Award (2021)<br>1st Place, INFORMS Data Mining Best Paper Award (2022)<br>2nd Place, TIMES Working Paper Award (2021)<br>2nd Place, POMS Behavioral OM Junior Scholar Paper Award (Sinchaisri, 2021)</span>}}\n
 
 [sextrafficking.pdf *Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning*]\n
-P. Ramchandani, H. Bastani and E. Wyatt\n
-(collaboration with [https://www.tellfinderalliance.com/ TellFinder Alliance] \& [https://uncharted.software/ Uncharted Software])\n
-/*M&SOM*/ (2025)\n{{<font color="EE0000">Winner, MSOM Student Paper Competition (Ramchandani, 2022), Service Science Best Student Paper Award (Ramchandani, 2021)<br>Second Place, POMS Sustainable OM Student Paper Award (Ramchandani, 2022) and Finalist, Public Sector in OR Best Paper Award (2021)<br>People's Choice Award, Early-Career Sustainable OM Workshop (2022)<font color="000000">}}\n
+{{<span class="paper-authors">P. Ramchandani, H. Bastani and E. Wyatt</span>}}\n
+/*M&SOM*/ (2025)\n
+{{<span class="paper-note">(collaboration with <a href="https://www.tellfinderalliance.com/" target="blank">TellFinder Alliance</a> &amp; <a href="https://uncharted.software/" target="blank">Uncharted Software</a>)</span>}}\n
+{{<span class="award-note">1st Place, MSOM Student Paper Competition (Ramchandani, 2022)<br>1st Place, Service Science Best Student Paper Award (Ramchandani, 2021)<br>2nd Place, POMS Sustainable OM Best Student Paper Award (Ramchandani, 2022)<br>Finalist, Public Sector in Operations Best Paper Award (2021)<br>People's Choice Award, Early-Career Sustainable OM Workshop (2022)</span>}}\n
 
 [molar.pdf *Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity*]\n
-X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban\n
+{{<span class="paper-authors">X. Huang, K. Xu, D. Lee, H. Hassani, H. Bastani and E. Dobriban</span>}}\n
 /*JASA*/ (2025)
 
 [rmbandit.pdf *Multitask Learning and Bandits via Robust Statistics*]\n
-K. Xu and H. Bastani\n
-/*Management Science*/ (2025)\n{{<font color="EE0000">Third Place, IBM Service Science Best Student Paper Award<font color="000000">}}\n
+{{<span class="paper-authors">K. Xu and H. Bastani</span>}}\n
+/*Management Science*/ (2025)\n{{<span class="award-note">3rd Place, IBM Service Science Best Student Paper Award (Xu, 2022)</span>}}\n
 
 [https://arxiv.org/abs/2402.06532 *Generative Adversarial Model-Based Optimization via Source Critic Regularization*]\n
-M. Yao, Y. Zeng, H. Bastani, J. Gardner, J. Gee and O. Bastani\n
+{{<span class="paper-authors">M. Yao, Y. Zeng, H. Bastani, J. Gardner, J. Gee and O. Bastani</span>}}\n
 /*NeurIPS*/ (2024)
 
 [relubandit.pdf *Stochastic Bandits with ReLU Neural Networks*]\n
-K. Xu, H. Bastani, S. Goel and O. Bastani\n
+{{<span class="paper-authors">K. Xu, H. Bastani, S. Goel and O. Bastani</span>}}\n
 /*ICML*/ (2024)
 
 [saferl.pdf *Uniformly Conservative Exploration in Reinforcement Learning*]\n
-W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani\n
+{{<span class="paper-authors">W. Xu, Y. Ma, K. Xu, H. Bastani and O. Bastani</span>}}\n
 /*AISTATS*/ (2023)
 
 [metacm.pdf *Bandits for Online Calibration: An Application to Content Moderation on Social Media Platforms*]\n
-V. Avadhanula, O. Baki, H. Bastani, O. Bastani, et al.\n
+{{<span class="paper-authors">V. Avadhanula, O. Baki, H. Bastani, O. Bastani, et al.</span>}}\n
 /*NeurIPS DMML & RL4RealLife Workshops*/ (2022)
 
 [interpcovid.pdf *Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19 Testing System*]\n
-H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
-(\* denotes equal contribution)\n
-/*INFORMS Journal on Applied Analytics*/, 52 (5), 398-411 (2022)\n{{<font color="EE0000">Winner, Wagner Prize for Excellence in Operations Research Practice (2021)<font color="000000">}}\n
+{{<span class="paper-authors">H. Bastani*, K. Drakopoulos*, V. Gupta*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras</span>}}\n
+/*INFORMS Journal on Applied Analytics*/, 52 (5), 398-411 (2022)\n
+{{<span class="paper-note">(* equal first authorship)</span>}}\n
+{{<span class="award-note">1st Place, Wagner Prize for Excellence in Operations Research Practice (2021)</span>}}\n
 
 [surrogates.pdf *Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?*]\n
-A. Anderer, H. Bastani and J. Silberholz\n
-/*Management Science*/ 68 (3), 1982-2002 (2022) [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2019) and MSOM Student Paper Competition (Anderer, 2020)<br> Finalist, Public Sector in OR Best Paper Award (2020)<font color="000000">}}\n
+{{<span class="paper-authors">A. Anderer, H. Bastani and J. Silberholz</span>}}\n
+/*Management Science*/ 68 (3), 1982-2002 (2022) [https://github.com/aanderer/ClinicalTrialsWithSurrogates {{[Data & Code]}}]\n{{<span class="award-note">1st Place, Pierskalla Award for Best Paper in Healthcare (2019)<br>1st Place, MSOM Student Paper Competition (Anderer, 2020)<br>Finalist, Public Sector in Operations Best Paper Award (2020)</span>}}\n
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
-H. Bastani, D. Simchi-Levi and R. Zhu\n
+{{<span class="paper-authors">H. Bastani, D. Simchi-Levi and R. Zhu</span>}}\n
 /*Management Science*/, 68 (3), 1865-1881 (2022)\n
 
 [engagement.pdf *Learning Personalized Product Recommendations with Customer Disengagement*]\n
-H. Bastani, P. Harsha, G. Perakis and D. Singhvi\n
-/*M&SOM*/, 24 (4), 2010-2028 (2022)\n{{<font color="EE0000">Second Place, Service Science Best Paper Award (2019)<font color="000000">}}\n
+{{<span class="paper-authors">H. Bastani, P. Harsha, G. Perakis and D. Singhvi</span>}}\n
+/*M&SOM*/, 24 (4), 2010-2028 (2022)\n{{<span class="award-note">2nd Place, Service Science Best Paper Award (2019)<br>Hon. Mention, POMS Best Student Paper in Supply Chain (Singhvi, 2019)</span>}}\n
 
 [ai-adaptation.pdf *Artificial Intelligence for Climate Change Adaptation*]\n
-S-M. Cheong, K. Sankaran and H. Bastani\n
+{{<span class="paper-authors">S-M. Cheong, K. Sankaran and H. Bastani</span>}}\n
 /*WIREs Data Mining \& Knowledge Discovery*/ Perspectives (2022)
 
 [greekcovid.pdf *Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning*]\n
-H. Bastani\*, K. Drakopoulos\*, V. Gupta\*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras\n
-(\* denotes equal contribution)\n
+{{<span class="paper-authors">H. Bastani*, K. Drakopoulos*, V. Gupta*, J. Vlachogiannis, C. Hadjicristodoulou, P. Lagiou, G. Magiorkinis, D. Paraskevis and S. Tsiodras</span>}}\n
 /*Nature*/ 599 (7883), 108-113 (2021) 
-[https://www.nature.com/articles/d41586-021-02556-w {{[Editorial]}}], [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}], [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Code]}}], and [https://github.com/kimondr/EVA_Public_Data {{[Data]}}]\n{{<font color="EE0000">Winner, Pierskalla Award for Best Paper in Healthcare (2021)<br>Second Place, Public Sector in OR Best Paper Award (2021)<font color="000000">}}\n
+[https://www.nature.com/articles/d41586-021-02556-w {{[Editorial]}}], [https://www.youtube.com/watch?v=I_OUdIih_00&feature=emb_title&ab_channel=SimonsInstitute {{[Algorithm Overview]}}], [https://github.com/vgupta1/EvaTargetedCovid19Testing/blob/main/README.md {{[Code]}}], and [https://github.com/kimondr/EVA_Public_Data {{[Data]}}]\n
+{{<span class="paper-note">(* equal first authorship)</span>}}\n
+{{<span class="award-note">1st Place, Pierskalla Award for Best Paper in Healthcare (2021)<br>2nd Place, Public Sector in Operations Best Paper Award (2021)</span>}}\n
 
 [proxies.pdf *Predicting with Proxies: Transfer Learning in High Dimension*]\n
-H. Bastani\n
+{{<span class="paper-authors">H. Bastani</span>}}\n
 /*Management Science*/, 67 (5), 2964-2984 (2021)
 
 [interp.pdf *Interpreting Predictive Models for Human-in-the-Loop Analytics*]\n
-O. Bastani, C. Kim and H. Bastani\n
-/*FATML Workshop*/ (2017)\n{{<font color="EE0000">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)<font color="000000">}}\n
+{{<span class="paper-authors">O. Bastani, C. Kim and H. Bastani</span>}}\n
+/*FATML Workshop*/ (2017)\n{{<span class="award-note">Finalist, Pierskalla Award for Best Paper in Healthcare (2018)</span>}}\n
 /News coverage: [https://www.nytimes.com/2019/03/21/science/health-medicine-artificial-intelligence.html New York Times], [https://sloanreview.mit.edu/article/how-you-can-have-more-impact-as-a-people-analyst Sloan Management Review]/\n
 
 [greedybandit.pdf *Mostly Exploration-Free Algorithms for Contextual Bandits*]\n
-H. Bastani, M. Bayati and K. Khosravi\n
+{{<span class="paper-authors">H. Bastani, M. Bayati and K. Khosravi</span>}}\n
 /*Management Science*/, 67 (3), 1329-1349 (2021) [https://github.com/khashayarkhv/contextual-bandits {{[Code]}}]
 
 [incentives.pdf *Analysis of Medicare Pay-for-Performance Contracts*]\n
-H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari\n
+{{<span class="paper-authors">H. Bastani, M. Bayati, M. Braverman, R. Gummadi, and R. Johari</span>}}\n
 /*EC Mechanism Design for Social Good Workshop*/ (2017)\n
 
 [lassobandit.pdf *Online Decision-Making with High-Dimensional Covariates*]\n
-H. Bastani and M. Bayati\n
-/*Operations Research*/, 68 (1), 276-294 (2020)\n{{<font color="EE0000">Winner of Pierskalla Award for Best Paper in Healthcare (2016), George Nicholson Student Paper Competition (2016),<br> MSOM Student Paper Competition (2016), and IBM Service Science Best Student Paper Award (2016)<font color="000000">}}
+{{<span class="paper-authors">H. Bastani and M. Bayati</span>}}\n
+/*Operations Research*/, 68 (1), 276-294 (2020)\n{{<span class="award-note">1st Place, Pierskalla Award for Best Paper in Healthcare (2016)<br>1st Place, George Nicholson Student Paper Competition (2016)<br>1st Place, MSOM Student Paper Competition (2016)<br>1st Place, IBM Service Science Best Student Paper Award (2016)</span>}}
 
 [upcoding.pdf *Evidence of Upcoding in Pay-for-Performance Programs*]\n
-H. Bastani, J. Goh and M. Bayati\n
-/*Management Science*/, 65 (3), 1042-1060 (2019)\n{{<font color="EE0000">Winner, Health Applications Society Best Student Paper Award (2015)<font color="000000">}}\n
+{{<span class="paper-authors">H. Bastani, J. Goh and M. Bayati</span>}}\n
+/*Management Science*/, 65 (3), 1042-1060 (2019)\n{{<span class="award-note">1st Place, Health Applications Society Best Student Paper Award (2015)</span>}}\n
 /News coverage: [https://www.sciencedaily.com/releases/2016/03/160308183646.htm Science Daily]/\n
 
 [https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7613/76130X/Creating-optical-vortex-modes-with-a-single-cylinder-lens/10.1117/12.847890.short? *Creating Optical Vortex Modes with a Single Cylinder Lens*]\n
-H. Sridhar, M. Cohen and J. Noe\n
+{{<span class="paper-authors">H. Sridhar, M. Cohen and J. Noe</span>}}\n
 /*SPIE*/ Complex Light and Optical Forces 7613, 235-244 (2010)
 
 [https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-25-22879 *Multiplex coherent anti-Stokes Raman scattering (MCARS) for chemically sensitive, label-free flow cytometry*]\n
-C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi\n
+{{<span class="paper-authors">C. Camp, S. Yegnanarayanan, A. Eftekhar, H. Sridhar and A. Adibi</span>}}\n
 /*Optics Express*/ 17(25) 22879-22889 (2009)
 
+{{<span id="invited-book-chapters" class="section-anchor"></span>}}
 == Invited Book Chapters
 
 [sl_chapter.pdf *Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone*]\n
-H. Bastani, O. Bastani and T.-H. Chung\n
-/*Sustainable and Responsible Operations - The New Frontier* (Forthcoming)/\n
+{{<span class="paper-authors">H. Bastani, O. Bastani and T.-H. Chung</span>}}\n
+/*Sustainable and Responsible Operations - The New Frontier*/ (2024)\n
 Springer Nature; edited by C. Tang
 
 [AI4SG.pdf *Reinforcement Learning for Public Health: Targeted COVID-19 Screening*]\n
-H. Bastani, K. Drakopoulos and V. Gupta\n
-/*AI for Social Impact*/\n
+{{<span class="paper-authors">H. Bastani, K. Drakopoulos and V. Gupta</span>}}\n
+/*AI for Social Impact*/ (2022)\n
 Online; edited by F. Fang, M. Tambe and B. Wilder
 
 [appliedml.pdf *Applied Machine Learning in Operations Management*]\n
-H. Bastani, D. J. Zhang and H. Zhang\n
-*/Innovative Technology at the Interface of Finance & Operations/*\n
+{{<span class="paper-authors">H. Bastani, D. J. Zhang and H. Zhang</span>}}\n
+*/Innovative Technology at the Interface of Finance & Operations/* (2022)\n
 Springer Series; edited by V. Babich, J. Birge and G. Hilary
 
 [proceedwithcare.pdf *Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making*]\n
-H. Bastani and P. Shi\n
-*/AI for Healthcare: Interdisciplinary Partnerships for Analytics-Driven Improvements in a Post-COVID World/*\n
+{{<span class="paper-authors">H. Bastani and P. Shi</span>}}\n
+*/AI for Healthcare: Interdisciplinary Partnerships for Analytics-Driven Improvements in a Post-COVID World/* (2022)\n
 Cambridge University Press; edited by S. Suen, E. Enns and D. Scheinker
 
+{{<span id="inactive-drafts" class="section-anchor"></span>}}
 == Inactive Drafts
 
 [csr.pdf *Responsible Sourcing: The First Step is the Hardest*]\n
-P. Ramchandani, H. Bastani and K. Moon\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2020)<font color="000000">}}\n
+{{<span class="paper-authors">P. Ramchandani, H. Bastani and K. Moon</span>}}\n
+{{<span class="award-note">People's Choice Award, Early-Career Sustainable OM Workshop (2020)</span>}}\n
 
 [transshipments.pdf *Are Bans Effective under Limited Monitoring? Evidence from High Seas Management*]\n
-H. Bastani and J. F. de Zegher\n{{<font color="EE0000">People's Choice Award, Early-Career Sustainable OM Workshop (2019)<font color="000000">}}\n
-
-
+{{<span class="paper-authors">H. Bastani and J. F. de Zegher</span>}}\n
+{{<span class="award-note">People's Choice Award, Early-Career Sustainable OM Workshop (2019)</span>}}\n
