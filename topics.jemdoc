@@ -81,7 +81,7 @@ I build methods that can learn useful data-driven decisions from limited, high-d
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 {{<span class="paper-authors">K. Xu, X. Zhao, H. Bastani and O. Bastani</span>}}\n
-Major Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
+Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 {{<span class="paper-authors">H. Bastani, D. Simchi-Levi and R. Zhu</span>}}\n
