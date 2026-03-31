@@ -1034,6 +1034,25 @@ font[color="#EE0000"] {
     display: none;
   }
 
+  body:has(#layout-menu a.current[href="topics.html"]) #layout-menu a[href^="topics.html#"],
+  body:has(#layout-menu a.current[href="research.html"]) #layout-menu a[href^="research.html#"] {
+    display: inline-flex;
+    position: static;
+    margin: 0 6px 8px 0;
+    padding: 7px 10px;
+    border: 1px solid rgba(23, 50, 79, 0.08);
+    border-radius: 999px;
+    background: #f7f8fa;
+    color: var(--muted);
+    font-size: 0.82rem;
+    line-height: 1.2;
+  }
+
+  body:has(#layout-menu a.current[href="topics.html"]) #layout-menu a[href^="topics.html#"]::before,
+  body:has(#layout-menu a.current[href="research.html"]) #layout-menu a[href^="research.html#"]::before {
+    display: none;
+  }
+
   #layout-content {
     padding: 24px 20px 28px;
   }
@@ -1124,6 +1143,13 @@ font[color="#EE0000"] {
     padding: 8px 10px;
     font-size: 0.88rem;
     line-height: 1.2;
+  }
+
+  body:has(#layout-menu a.current[href="topics.html"]) #layout-menu a[href^="topics.html#"],
+  body:has(#layout-menu a.current[href="research.html"]) #layout-menu a[href^="research.html#"] {
+    margin: 0 5px 7px 0;
+    padding: 6px 9px;
+    font-size: 0.78rem;
   }
 
   div#toptitle h1,
