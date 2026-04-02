@@ -203,7 +203,9 @@ div.menu-item:last-child {
   border-top: 1px solid var(--line);
 }
 
-#layout-menu a[href="research.html#working-papers"] {
+#layout-menu a[href="research.html#working-papers"],
+#layout-menu a[href="research.html#published-papers"],
+#layout-menu a[href="research.html#invited-book-chapters"] {
   margin-top: 14px;
   padding-top: 14px;
   border-top: 1px solid var(--line);
@@ -220,7 +222,8 @@ div.menu-item:last-child {
   font-size: 0.85rem;
 }
 
-body:has(#layout-menu a.current[href="topics.html"]) #layout-content h3 {
+body:has(#layout-menu a.current[href="topics.html"]) #layout-content h3,
+body:has(#layout-menu a.current[href="research.html"]) #layout-content h3 {
   display: inline-block;
   padding-bottom: 0.14rem;
   border-bottom: 1px solid rgba(27, 53, 83, 0.18);
