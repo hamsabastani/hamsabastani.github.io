@@ -28,7 +28,7 @@ I am especially excited about partnering with governments, NGOs, and schools to 
 
 [sl.pdf *Improving Access to Essential Medicines via Decision-Aware Machine Learning*]\n
 {{<span class="paper-authors">T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani* and O. Bastani*</span>}}\n
-/*Nature*/, Research Article (forthcoming)\n
+/*Nature*/, Research Article (2026)\n
 {{<span class="paper-note">(* equal last authorship)</span>}}\n
 {{<span class="award-note">1st Place, Public Sector in Operations Best Paper Award (2024)<br>1st Place, Service Science Best Student Paper Award (Chung, 2025)<br>2nd Place, Pierskalla Award for Best Paper in Healthcare (2025)<br>2nd Place, Doing Good with Good OR Best Student Paper Award (Chung, 2024)<br>Finalist, MSOM Student Paper Competition (Chung, 2024)</span>}}
 
@@ -67,6 +67,9 @@ I build methods that can learn useful data-driven decisions from limited, high-d
 [https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
 {{<span class="paper-authors">H. Bastani, O. Bastani and B. McLaughlin</span>}}
 
+[https://arxiv.org/abs/2607.03385 *A Hierarchy of Policy Learning Problems*]\n
+{{<span class="paper-authors">H. Bastani, O. Bastani and S. Chen</span>}}
+
 {{<span id="bandits-tl" class="section-anchor"></span>}}
 === Bandits & Transfer Learning
 
@@ -81,7 +84,7 @@ I build methods that can learn useful data-driven decisions from limited, high-d
 
 [wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
 {{<span class="paper-authors">K. Xu, X. Zhao, H. Bastani and O. Bastani</span>}}\n
-Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
+Forthcoming, /*Management Science*/, preliminary version in /*ICML*/ (2021)
 
 [metapricing.pdf *Meta Dynamic Pricing: Transfer Learning Across Experiments*]\n
 {{<span class="paper-authors">H. Bastani, D. Simchi-Levi and R. Zhu</span>}}\n

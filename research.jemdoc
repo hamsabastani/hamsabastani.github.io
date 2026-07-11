@@ -9,12 +9,6 @@ A list of my working and published papers; for selected papers grouped by resear
 {{<span id="ai-field-deployments" class="section-anchor"></span>}}
 === AI Field Deployments
 
-[sl.pdf *Improving Access to Essential Medicines via Decision-Aware Machine Learning*]\n
-{{<span class="paper-authors">T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani* and O. Bastani*</span>}}\n
-/*Nature*/, Research Article (forthcoming)\n
-{{<span class="paper-note">(* equal last authorship)</span>}}\n
-{{<span class="award-note">1st Place, Public Sector in Operations Best Paper Award (2024)<br>1st Place, Service Science Best Student Paper Award (Chung, 2025)<br>2nd Place, Pierskalla Award for Best Paper in Healthcare (2025)<br>2nd Place, Doing Good with Good OR Best Student Paper Award (Chung, 2024)<br>Finalist, MSOM Student Paper Competition (Chung, 2024)</span>}}\n
-
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932 *Self-Regulated AI Use Hinders Long-Term Learning*]\n
 {{<span class="paper-authors">S. Poulidis, H. Bastani and O. Bastani</span>}}
 
@@ -32,15 +26,12 @@ A list of my working and published papers; for selected papers grouped by resear
 [https://www.arxiv.org/abs/2510.18161 *Beating the Winner’s Curse via Inference-Aware Policy Optimization*]\n
 {{<span class="paper-authors">H. Bastani, O. Bastani and B. McLaughlin</span>}}
 
-[https://arxiv.org/abs/2602.04836 *Are AI Capabilities Increasing Exponentially? A Competing Hypothesis*]\n
-{{<span class="paper-authors">H. Ge, H. Bastani and O. Bastani</span>}}
-
-[wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
-{{<span class="paper-authors">K. Xu, X. Zhao, H. Bastani and O. Bastani</span>}}\n
-Minor Revision, /*Management Science*/, preliminary version in /*ICML*/ (2021)
+[https://arxiv.org/abs/2607.03385 *A Hierarchy of Policy Learning Problems*]\n
+{{<span class="paper-authors">H. Bastani, O. Bastani and S. Chen</span>}}
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165986 *Online Learning with Survival Data*]\n
-{{<span class="paper-authors">A. Anderer, H. Bastani and J. Silberholz</span>}}
+{{<span class="paper-authors">A. Anderer, H. Bastani and J. Silberholz</span>}}\n
+Major Revision, /*M&SOM*/
 
 
 {{<span id="human-ai" class="section-anchor"></span>}}
@@ -67,6 +58,21 @@ Major Revision, /*Management Science*/, preliminary version in /*ITCS*/ (2024)
 
 {{<span id="published-papers" class="section-anchor"></span>}}
 == Published Papers
+
+[sl.pdf *Improving Access to Essential Medicines via Decision-Aware Machine Learning*]\n
+{{<span class="paper-authors">T.-H. Chung, J. Abdulai, P. Bayoh, L. Sandi, F. Smart, H. Bastani* and O. Bastani*</span>}}\n
+/*Nature*/, Research Article (2026)\n
+{{<span class="paper-note">(* equal last authorship)</span>}}\n
+{{<span class="award-note">1st Place, Public Sector in Operations Best Paper Award (2024)<br>1st Place, Service Science Best Student Paper Award (Chung, 2025)<br>2nd Place, Pierskalla Award for Best Paper in Healthcare (2025)<br>2nd Place, Doing Good with Good OR Best Student Paper Award (Chung, 2024)<br>Finalist, MSOM Student Paper Competition (Chung, 2024)</span>}}\n
+
+[wordembeddings.pdf *Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings*]\n
+{{<span class="paper-authors">K. Xu, X. Zhao, H. Bastani and O. Bastani</span>}}\n
+Forthcoming, /*Management Science*/, preliminary version in /*ICML*/ (2021)
+
+
+[https://arxiv.org/abs/2602.04836 *Position: AI Capabilities are Not Increasing Exponentially*]\n
+{{<span class="paper-authors">H. Ge, H. Bastani and O. Bastani</span>}}\n
+/*ICML*/ /Position Paper/ (2026)
 
 [education_llm.pdf *Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics*\n]
 {{<span class="paper-authors">H. Bastani*, O. Bastani*, A. Sungu*, H. Ge, Özge Kabakçı and R. Mariman</span>}}\n
